@@ -1,5 +1,5 @@
 # Proyecto PHP y MySQL
-### Maqueta de la siguiente web:
+### Maqueta de la siguiente pagina web:
 ![](PHP.PNG)
 
 
